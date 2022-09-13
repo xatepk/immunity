@@ -1,0 +1,11 @@
+.footer__copyright {
+  margin: 0;
+  padding: 112px 0 10px 64px;
+  color: #ffffff;
+}
+
+@media screen and (max-width: 1279px) {
+  .footer__copyright{
+    padding: 112px 0 10px 40px;
+  }
+}

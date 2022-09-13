@@ -4,3 +4,22 @@
   list-style-type: none;
   display: flex;
 }
+
+@media (max-width: 767px) {
+  .header__nav-list {
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 0 64px;
+    top: 82px;
+    left: 0;
+    right: 0;
+    z-index: 999;
+    height: 0;
+    opacity: 1;
+    transition: .5s;
+    overflow: hidden;
+    background-color: #111111;
+  }
+}

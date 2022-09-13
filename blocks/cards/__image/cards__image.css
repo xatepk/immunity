@@ -4,3 +4,10 @@
     margin: auto;
   }
 }
+
+@media screen and (max-width: 1767px) {
+  .cards__image {
+    width: 60%;
+    margin: auto;
+  }
+}

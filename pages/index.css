@@ -25,3 +25,6 @@
 @import url("../blocks/cards/__item/cards__item.css");
 @import url("../blocks/techniques/__button/techniques__button.css");
 @import url("../blocks/cards/__image/cards__image.css");
+@import url("../blocks/sidebar/__icon/sidebar__icon.css");
+@import url("../blocks/sidebar/__checkbox/sidebar__checkbox.css");
+@import url("../blocks/sidebar/__btn/sidebar__btn.css");

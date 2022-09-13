@@ -1,0 +1,33 @@
+.sidebar__checkbox {
+  display: none;
+}
+
+@media (max-width: 767px) {
+  .sidebar__checkbox {
+    display: none;
+  }
+
+  .page:has(.sidebar__checkbox:checked) {
+    position: fixed;
+    overflow: hidden;
+  }
+
+  .sidebar__checkbox:checked ~ .header__nav-list {
+    height: 100%;
+  }
+
+  .sidebar__checkbox:checked ~ .sidebar__btn .sidebar__icon {
+    background: transparent;
+  }
+  .sidebar__checkbox:checked ~ .sidebar__btn .sidebar__icon::before, .sidebar__checkbox:checked ~ .sidebar__btn .sidebar__icon::after {
+    top: 0;
+  }
+  .sidebar__checkbox:checked ~ .sidebar__btn .sidebar__icon::after {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+  }
+  .sidebar__checkbox:checked ~ .sidebar__btn .sidebar__icon::before {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+  }
+}

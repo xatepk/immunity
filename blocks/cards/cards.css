@@ -13,7 +13,7 @@
   .cards {
     grid-template-columns: 1fr;
     grid-column-gap: 0;
-    grid-row-gap: 40px;
+    grid-row-gap: 60px;
     align-items: center;
   }
 }

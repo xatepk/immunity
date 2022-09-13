@@ -7,5 +7,5 @@
 
 **GitHubPages**
 
-* [Ссылка на страницу в GitHubPages](https://xatepk.github.io/russian-travel/index.html)
+* [Ссылка на страницу в GitHubPages](https://xatepk.github.io/immunity/index.html)
 

@@ -5,6 +5,7 @@
   text-decoration: none;
   background: url('../../../images/basket.svg') no-repeat 0% 100% / contain;
   position: relative;
+  z-index: 1;
 }
 
 .header__bag:hover {

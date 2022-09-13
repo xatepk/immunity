@@ -1,2 +1,6 @@
-.cards__image {
+@media screen and (max-width: 1279px) {
+  .cards__image {
+    width: 80%;
+    margin: auto;
+  }
 }

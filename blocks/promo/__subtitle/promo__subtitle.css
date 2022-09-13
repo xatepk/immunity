@@ -8,3 +8,22 @@
   position: relative;
   z-index: 1;
 }
+
+@media screen and (max-width: 1279px) {
+  .promo__subtitle {
+    max-width: 60%;
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .promo__subtitle {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .promo__subtitle {
+    font-size: 12px;
+  }
+}

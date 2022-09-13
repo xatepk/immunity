@@ -1,0 +1,18 @@
+.techniques__button {
+  font-size: 18px;
+  color: #000000;
+  background: #FCB500;
+  border: none;
+  border-radius: 7px;
+  width: 256px;
+  height: 56px;
+  text-align: center;
+  margin: 64px auto 0;
+  display: block;
+}
+
+.techniques__button:hover {
+  cursor: pointer;
+  transition: .2s;
+  opacity: .5;
+}

@@ -1,0 +1,10 @@
+.promo__desc-title {
+  margin: 0;
+  padding: 120px 0 0 64px;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.19;
+  max-width: 416px;
+  position: relative;
+  z-index: 1;
+}

@@ -1,0 +1,13 @@
+.header__bag-count {
+  display: flex;
+  font-size: 12px;
+  width: 16px;
+  height: 16px;
+  background-color: #FCB500;
+  border-radius: 50%;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}

@@ -1,0 +1,10 @@
+.promo__desc-subtitle {
+  margin: 0;
+  padding: 16px 0 96px 64px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.16;
+  max-width: 416px;
+  position: relative;
+  z-index: 1;
+}

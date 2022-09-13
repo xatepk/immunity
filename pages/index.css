@@ -6,3 +6,12 @@
 @import url("../blocks/header/__nav-item/header__nav-item.css");
 @import url("../blocks/header/__nav-link/header__nav-link.css");
 @import url("../blocks/header/__bag/header__bag.css");
+@import url("../blocks/header/__bag-count/header__bag-count.css");
+@import url("../blocks/promo/promo.css");
+@import url("../blocks/promo/__title/promo__title.css");
+@import url("../blocks/promo/__subtitle/promo__subtitle.css");
+@import url("../blocks/promo/__desc-title/promo__desc-title.css");
+@import url("../blocks/promo/__desc-subtitle/promo__desc-subtitle.css");
+@import url("../blocks/promo/__image/promo__image.css");
+@import url("../blocks/intro/__title/intro__title.css");
+@import url("../blocks/intro/__title/_yellow/intro__title_yellow.css");

@@ -4,5 +4,6 @@
   height: 32px;
   text-decoration: none;
   background: url('../../../images/basket.svg') no-repeat 0% 100% / contain;
+  position: relative;
 }
 

@@ -1,4 +1,5 @@
 .promo {
   background: url('../../images/promo.svg') no-repeat 0% 100% / cover;
   position: relative;
+  overflow: hidden;
 }

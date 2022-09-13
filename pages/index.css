@@ -15,3 +15,8 @@
 @import url("../blocks/promo/__image/promo__image.css");
 @import url("../blocks/intro/__title/intro__title.css");
 @import url("../blocks/intro/__title/_yellow/intro__title_yellow.css");
+@import url("../blocks/intro/__discount-price/intro__discount-price.css");
+@import url("../blocks/intro/__actual-price/intro__actual-price.css");
+@import url("../blocks/intro/__price/intro__price.css");
+@import url("../blocks/cards/cards.css");
+@import url("../blocks/cards/__description/cards__description.css");

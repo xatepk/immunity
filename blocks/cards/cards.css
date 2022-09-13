@@ -1,0 +1,10 @@
+.cards {
+  max-width: 788px;
+  margin: 0 auto;
+  padding: 60px 0 64px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 111px;
+  list-style-type: none;
+  justify-content: center;
+}

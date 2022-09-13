@@ -1,0 +1,5 @@
+.intro__price {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

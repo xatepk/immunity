@@ -23,7 +23,7 @@
 }
 
 @media screen and (max-width: 767px) {
-  ..promo__desc-title {
+  .promo__desc-title {
     font-size: 24px;
   }
 }

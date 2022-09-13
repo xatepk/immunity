@@ -8,8 +8,8 @@
   max-width: 130px;
 }
 
-@media screen and (max-width: 1279px) {
+@media screen and (max-width: 1023px) {
   .cards__description {
-   margin-top: 40px;
+   margin: 0;
   }
 }
